@@ -5,7 +5,7 @@
     using RabbitMQ.Client;
 
     /// <summary>
-    /// Sends Messages
+    /// Sends Messages.
     /// </summary>
     class Program
     {
